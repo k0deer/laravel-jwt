@@ -1,0 +1,6 @@
+Laravel with JWT | From Scratch to Exception Handling
+https://www.youtube.com/watch?v=l201RSQ7Ti4
+
+Links:
+https://jwt-auth.readthedocs.io/en/develop/
+https://github.com/tymondesigns/jwt-auth

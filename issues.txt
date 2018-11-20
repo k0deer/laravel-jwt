@@ -1,0 +1,11 @@
+* laravel jwt Auth\SessionGuard::factory does not exist
+
+* solution:
+https://github.com/tymondesigns/jwt-auth/issues/1484
+
+in config/auth.php change defualt guard from web to api
+
+'defaults' => [
+	'guard' => 'api',
+	'passwords' => 'users',
+],
